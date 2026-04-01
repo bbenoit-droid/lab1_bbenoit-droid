@@ -35,3 +35,4 @@ printf '%s | %s | %s\n' \
 
 printf 'Archived %s to %s\n' "$source_input" "$archive_dir/$archived_file"
 printf 'Created fresh working file at %s\n' "$workspace_file"
+
